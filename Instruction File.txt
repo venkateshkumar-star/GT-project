@@ -1,0 +1,27 @@
+Frontend Service
+1. CMD: npm i
+2. CMD: npm run dev
+
+DB
+Need to Restore the SQL file in the pgAdmin database
+
+Backend Service
+1. Change You DB name and Credential's
+1. CMD: go run main.go
+
+User Credentials
+Admin: 
+Username: testuseradmin@gmail.com
+Password: testuser
+
+HeadTrainer: 
+Username: testuserheadtrainer@gmail.com
+Password: testuser
+
+Sub-Trainer:
+Username: krishna@gmail.com
+Password: 2002-09-19
+
+Student:
+Username: gokulhk278@gmail.com
+Password: 2002-02-19
