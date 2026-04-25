@@ -32,7 +32,7 @@ WORKDIR /root/
 COPY --from=builder /app/app .
 
 # Copy .env if needed (optional)
-COPY .env .env
+
 
 # Expose port (change if your app uses different port)
 EXPOSE 8080
